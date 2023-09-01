@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.tron.trident</groupId>
         <artifactId>trident</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>0.3.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
     <groupId>org.tron.trident</groupId>
